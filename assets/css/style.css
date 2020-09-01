@@ -5,3 +5,13 @@
      
 
 }
+
+.card-header {
+    color: teal!important;
+    background-color: white;
+}
+
+.card-mb-3 {
+    margin-top: 75px;
+    background-color: white;
+}
