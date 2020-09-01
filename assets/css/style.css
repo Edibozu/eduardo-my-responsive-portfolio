@@ -9,6 +9,8 @@
 .card-header {
     color: teal!important;
     background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 
 .card-mb-3 {
