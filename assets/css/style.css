@@ -53,3 +53,11 @@ img {
 .card-header {
     padding-top: 0px;
 }
+
+.card-img-top-right {
+    float: right;
+}
+
+.card-img-middle-right {
+    float: right;
+}
