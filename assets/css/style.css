@@ -28,6 +28,7 @@ img {
 
 .contact-header {
     color: teal;
+    padding-left: 15px;
 }
 
 .card {
@@ -37,6 +38,7 @@ img {
     padding-left: 30px;
     margin-left: 30px;
     padding-top: 30px;
+    padding-right: 30px;
 }
 
 .form-control {
