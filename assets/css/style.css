@@ -37,3 +37,13 @@ img {
     padding-left: 30px;
     margin-left: 30px;
     padding-top: 30px;
+}
+
+.form-control {
+    margin-bottom: 15px;
+
+}
+
+#exampleInputMessage {
+    height: 115px;
+}
