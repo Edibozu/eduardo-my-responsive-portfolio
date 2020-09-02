@@ -28,5 +28,12 @@ img {
 
 .contact-header {
     color: teal;
-    font-size: 20px;
 }
+
+.card {
+    margin-top: 75px;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+    padding-left: 30px;
+    margin-left: 30px;
+    padding-top: 30px;
